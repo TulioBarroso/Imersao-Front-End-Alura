@@ -1,5 +1,6 @@
 import React from 'react';
 import './Header.css';
+import '../media-query.css';
 import smallLeft from '../assets/icons/small-left.png';
 import smallRight from '../assets/icons/small-right.png';
 import search from '../assets/icons/search.png'
