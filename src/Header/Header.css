@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
   }
   
   .header__navigation .navigation .arrow-left {
